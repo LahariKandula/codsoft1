@@ -1,4 +1,3 @@
-@@ -0,0 +1,137 @@
 from tkinter import *
 from tkinter import messagebox
 import sqlite3 as sql
